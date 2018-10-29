@@ -1,0 +1,11 @@
+{
+    "name": "mironova_na/src",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "App\\": "src/application/"
+        }
+    }
+}
